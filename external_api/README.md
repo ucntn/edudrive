@@ -1,1 +1,1 @@
-2
+Plugin zewnêtrznego API dla Owncloud.
