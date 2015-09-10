@@ -15,11 +15,11 @@ Edudrive - udostêpnianie plików z systemu OwnCloud na platformie Moodle
     - XSendFilePath <scie¿ka do katalogu owncloud/data>
 	
     np.:
-    * \<Directory />
-    * Options FollowSymLinks
-    * AllowOverride None
-    * XSendFilePath /var/www/html/owncloud/data
-    * \</Directory> 
+    `<Directory />
+    Options FollowSymLinks
+    AllowOverride None
+    XSendFilePath /var/www/html/owncloud/data
+    </Directory>`
 
 3. #####Instalacja wtyczki do Owncloud umo¿liwiaj¹cej udostêpnianie plików do zewnêtrznej platformy Moodle
   1. Pliki z extarnal_api.zip rozpakowujemy do katalogu owncloud/apps 
