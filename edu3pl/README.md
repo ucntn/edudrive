@@ -1,1 +1,3 @@
+*Strona repozytorium w budowie*
+
 Plugin do Moodle do ³¹czenia z zewnêtrznym repozytorium Owncloud.

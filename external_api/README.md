@@ -1,3 +1,5 @@
-﻿#Plugin zewnętrznego API dla Owncloud.
+﻿*Strona repozytorium w budowie*
 
-##Test
+Plugin zewnętrznego API dla Owncloud.
+------
+
