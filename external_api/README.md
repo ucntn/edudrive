@@ -1,3 +1,3 @@
-#Plugin zewn�trznego API dla Owncloud.
+﻿#Plugin zewnętrznego API dla Owncloud.
 
 ##Test
