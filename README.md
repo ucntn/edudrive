@@ -1,7 +1,7 @@
 Edudrive - udostêpnianie plików z systemu OwnCloud na platformie Moodle
 ------
 
-1. Wymagania wstêpne
+1. #####Wymagania wstêpne
   1. Platforma Moodle w wersji >2.3 (http://moodle.org)
   2. Owncloud w wersji >5.0.3 (https://owncloud.org/)
   3. Zainstalowane wtyczki do Apache'a:
