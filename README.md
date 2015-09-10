@@ -15,11 +15,11 @@ Edudrive - udostêpnianie plików z systemu OwnCloud na platformie Moodle
     - XSendFilePath <scie¿ka do katalogu owncloud/data>
 	
     np.:
-    ```html
+    ```
 	<Directory />
-    Options FollowSymLinks
-    AllowOverride None
-    XSendFilePath /var/www/html/owncloud/data
+      Options FollowSymLinks
+      AllowOverride None
+      XSendFilePath /var/www/html/owncloud/data
     </Directory>
 	````
 
